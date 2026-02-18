@@ -1,0 +1,9 @@
+# Build artifacts
+*.exe
+*.o
+*.res
+build_log.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
