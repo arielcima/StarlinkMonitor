@@ -1,5 +1,4 @@
 # Build artifacts
-*.exe
 *.o
 *.res
 build_log.txt
